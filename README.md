@@ -1,7 +1,5 @@
-Here is the professional and fully completed README.md for your project. This is written as a final submission that showcases your skills as a Data Analyst.
 
-Customer Retention & Churn Analysis - Final Project
-📌 Project Overview
+📌 Task Overview
 This project was developed for my internship to address the challenge of customer churn in the telecommunications industry. Using the Telco Customer Churn dataset, I built an interactive Power BI dashboard to identify high-risk customer segments and provide data-driven strategies to increase retention.
 
 📊 Business Metrics Summary
